@@ -1,0 +1,2 @@
+https://librabuch.jp/blog/2013/03/python-defaultdict/
+http://d.hatena.ne.jp/itasuke/20080914/p1
